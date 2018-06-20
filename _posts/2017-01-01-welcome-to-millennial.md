@@ -2,7 +2,7 @@
 layout: post
 title: "Sample Issue"
 author: ""
-image: summer.jpg
+image: cuba-3.jpg
 ---
 
 testing
