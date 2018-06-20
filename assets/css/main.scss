@@ -8,7 +8,7 @@
 
 $base-font-family: 'Roboto', sans-serif;
 
-$header-font-family: 'Dala Floda', serif;
+$header-font-family: 'Dala', serif;
 
 $body-font-family: 'Roboto', sans-serif;
 
@@ -22,11 +22,11 @@ $tablet-width: 600px;
 
 $phone-width: 480px;
 
-$header-thickness: 56px;
+$header-thickness: 76px;
 
 @import "_sass/-sections-dir";
 
 @font-face {
-    font-family: 'Dala Floda'; /*a name to be used later*/
-    src: url('https://uofteebreview.github.io/dala-floda-bold.ttf'); /*URL to font*/
+    font-family: 'Dala';
+    src: url('../fonts/dala-floda-bold.ttf');
 }

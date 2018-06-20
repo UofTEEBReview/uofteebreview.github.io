@@ -119,7 +119,7 @@ th, td {
   text-decoration: underline; }
 
 .posts-wrapper {
-  padding-top: 66px;
+  padding-top: 86px;
   margin: auto;
   display: block;
   width: 1080px; }
@@ -134,7 +134,7 @@ th, td {
     margin-right: auto; }
 
   .posts-wrapper {
-    padding-top: 66px;
+    padding-top: 86px;
     margin: auto;
     display: block;
     width: 95vw; } }
@@ -328,7 +328,7 @@ th, td {
   float: left; }
 
 .menu-list {
-  line-height: 56px;
+  line-height: 76px;
   float: right; }
 
 .menu-link {
@@ -575,7 +575,5 @@ pre code {
     color: #ff6600; }
 
 @font-face {
-  font-family: 'Dala Floda';
-  /*a name to be used later*/
-  src: url("https://uofteebreview.github.io/dala-floda-bold.ttf");
-  /*URL to font*/ }
+  font-family: 'Dala';
+  src: url("../fonts/dala-floda-bold.ttf"); }
