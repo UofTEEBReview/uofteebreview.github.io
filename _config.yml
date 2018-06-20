@@ -16,7 +16,7 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "EEB Review"
 description:	       "a quarterly review of U of T EEB"
-author:              "TK"
+author:              "EGSA"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
