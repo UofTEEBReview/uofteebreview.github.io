@@ -25,13 +25,14 @@
   font-weight: 400;
   line-height: 80px;
   margin-bottom: 0;
-  margin-top: 0;
+  margin-top: 5px;
   padding-left: 10px;
   float: left;
 }
 .menu-list {
   line-height: $header-thickness;
   float: right;
+  font-size: 20px;
 }
 .menu-link {
   padding: 5px 10px;
