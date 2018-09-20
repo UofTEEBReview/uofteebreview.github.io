@@ -6,33 +6,5 @@
 		<link></link>
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
-			<item>
-				<title>Sample Issue</title>
-				
-					<dc:creator></dc:creator>
-				
-				
-					<description>&lt;p&gt;testing&lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
-				<link>http://localhost:4000/sample-issue.html</link>
-				<guid isPermaLink="true">http://localhost:4000/sample-issue.html</guid>
-			</item>
-		
-			<item>
-				<title>Sample Issue 2</title>
-				
-					<dc:creator></dc:creator>
-				
-				
-					<description>&lt;p&gt;testing&lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
-				<link>http://localhost:4000/sample-issue-2.html</link>
-				<guid isPermaLink="true">http://localhost:4000/sample-issue-2.html</guid>
-			</item>
-		
 	</channel>
 </rss>
